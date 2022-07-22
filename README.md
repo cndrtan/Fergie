@@ -2,18 +2,18 @@
 Fergie is an app for ADHD people to help them remember their tasks by having gamified reminder to increase their motivation.
 
 ## Tech Stack
-**Platform:** iOS ``15.0``
-**Framework:** SwiftUI, WidgetKit, WatchKit
-**IDE:** XCode ``v.13.4``
+**Platform:** iOS ``15.0``<br>
+**Framework:** SwiftUI, WidgetKit, WatchKit<br>
+**IDE:** XCode ``v.13.4``<br>
 
 ## Screenshots iOS
 <p align=center>
-  <img src="./Screenshot/fergie1.png" width=150/> 
-  <img src="./Screenshot/fergie2.png" width=150/>
-  <img src="./Screenshot/fergie3.png" width=150/>
-  <img src="./Screenshot/fergie4.png" width=150/>
-  <img src="./Screenshot/fergie5.png" width=150/>
-  <img src="./Screenshot/fergie6.png" width=150/>
+  <img src="./Screenshot/fergie1.png" width=130/> 
+  <img src="./Screenshot/fergie2.png" width=130/>
+  <img src="./Screenshot/fergie3.png" width=130/>
+  <img src="./Screenshot/fergie4.png" width=130/>
+  <img src="./Screenshot/fergie5.png" width=130/>
+  <img src="./Screenshot/fergie6.png" width=130/>
 </p>
 
 ## Screenshots Widget
